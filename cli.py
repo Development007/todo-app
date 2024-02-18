@@ -18,7 +18,7 @@ while True:
         functions.write_todos(filepath="items.txt", todos_arg=todos)
 
     elif user_action.startswith("show"):
-        # using with function because it don't need to close the file
+        # using with function because it doesn't need to close the file
         todos = functions.get_todos()
         # new_todos = []
         # for item in todos:
