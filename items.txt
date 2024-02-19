@@ -1,9 +1,7 @@
 newcar
-car
-fan
-cars
-update the os
+fightupdate the os
 plane
-carofcar
-car-clean
+easycar-clean
 easy bro
+completed
+same features
